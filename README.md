@@ -85,17 +85,23 @@ Tetap di file `main.dart` di class `_MyHomePageStat`e pada bagian widget `build`
 
 ### Output
 
-![](images/1.jpg)
+<img src="images/1.jpg" width="1000">
 
 ## Tugas
 
 ### Menambahkan transform widget perspektif dan rotasi
 
-![](images/2.jpg)
+<img src="images/2.jpg" width="1000">
 Pada baris ke 41 menerapkan perspektif yang membuat objek yang lebih jauh tampak lebih kecil. Kemudian pada baris ke 42 dan 43 menerapkan rotasi berdasarkan nilai `_offset`
 
 ### Menambahkan widget GestureDetector
 
-![](images/3.jpg)
+<img src="images/3.jpg" width="1000">
 
-Terdapat dua jenis gerakan yang dapat dilakukan yaitu gerakan menggeser(misalnya jari bergerak di sekitar layar) yang menyebabkan tampilan akan sesuai dengan gerakan pengguna dan gerakan klik dua kali yang menyebabkan tampilan akan menjadi semula.
+Terdapat dua jenis gerakan yang dapat dilakukan yaitu gerakan menggeser(misalnya jari bergerak di sekitar layar) yang menyebabkan tampilan akan sesuai dengan gerakan pengguna dan gerakan klik dua kali yang menyebabkan tampilan akan kembali semula.
+
+### Membuat animasi flip 3D
+
+<img src="images/4.jpg" width="1000">
+<img src="images/5.jpg" width="400"> <img src="images/6.jpg" width="400"><br>
+<img src="images/7.jpg" width="400"> <img src="images/8.jpg" width="400">
